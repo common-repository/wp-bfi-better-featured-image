@@ -1,0 +1,78 @@
+.column-wp_bfi_featured_image {
+text-align:center !important;
+}
+
+.wp-bfi {}
+
+	.wp-bfi a > i[class^="fa"]:active,
+	.wp-bfi a > i[class^="fa"]:focus,
+	.wp-bfi a > i[class^="fa"]:hover {
+	color:inherit;
+	}
+
+	.wp-bfi table {
+	margin-top:16px;
+	}
+
+	.wp-bfi .fa-envelope,
+	.wp-bfi .fa-exclamation-triangle,
+	#postimagediv .fa-exclamation-triangle {
+	color:rgb(255, 206, 26);
+	}
+
+	.wp-bfi .fa-facebook-square {
+	color:rgb(68, 96, 160);
+	}
+
+	.wp-bfi .fa-google-plus-square {
+	color:rgb(224, 47, 47);
+	}
+
+	.wp-bfi .fa-linkedin-square {
+	color:rgb(0, 123, 181);
+	}
+
+	.wp-bfi .fa-paypal {
+	color:rgb(0, 112, 186);
+	}
+
+	.wp-bfi .fa-twitter-square {
+	color:rgb(28, 183, 235);
+	}
+
+	.wp-bfi .num-posts,
+	.wp-bfi .num-with-featured-image {
+	font-weight:bold;
+	}
+
+	.wp-bfi .spinner {
+	float:none;
+	}
+
+	.wp-bfi .with-bullets {
+	list-style-type:square;
+	padding-left:32px;
+	}
+
+.wp-bfi-featured-image {
+height:100%;
+max-width:200px;
+width:100%;
+}
+
+.wp-bfi-image-buttons {}
+
+	.wp-bfi-image-buttons .button {
+	margin-bottom:4px;
+	}
+
+	.wp-bfi-image-buttons .fa {
+	font-size:14px;
+	}
+
+.wp-bfi-featured-image-info {
+display:none;
+font-size:11px;
+line-height:12px;
+padding-bottom:6px;
+}

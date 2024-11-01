@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP BFI – Better Featured Image\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-24 12:50+0000\n"
+"PO-Revision-Date: 2019-10-24 13:00+0000\n"
+"Last-Translator: VERYA <inbox@verya.ca>\n"
+"Language-Team: French (Canada)\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: wp-bfi-admin-settings.php:116
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Translate this plugin in other languages</a>"
+", so other users can benefit from it."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Traduisez cette extension dans d'autres "
+"langues</a>, afin que d'autres utilisateurs puissent en bénéficier."
+
+#: wp-bfi-better-featured-image.php:274
+msgid ""
+"<p><i class=\"fa fa-exclamation-triangle\"></i> There is a default featured "
+"image for this post type. It will be used if it isn't set here.</p>"
+msgstr ""
+"<p><i class=\"fa fa-exclamation-triangle\"></i> Il y a une image à la une "
+"par défaut pour ce type d'article. Elle sera utilisée si elle n'est pas "
+"définie ici.</p>"
+
+#: wp-bfi-admin-settings.php:57
+#, php-format
+msgid ""
+"<small>Out of <span class=\"num-posts\">%d</span> posts, <span class=\"num-"
+"with-featured-image\">%d</span> have a featured image.</small>"
+msgstr ""
+"<small>Sur <span class=\"num-posts\">%d</span> articles, <span class=\"num-"
+"with-featured-image\">%d</span> ont une image à la une.</small>"
+
+#: wp-bfi-better-featured-image.php:134
+msgid ""
+"Are you sure you want to unlink every featured image from this post type? "
+"NOTE: They won't be deleted from the media library."
+msgstr ""
+"Êtes-vous certain de vouloir dissocier toutes les images à la une de ce type "
+"d'article? NOTE: Elles ne seront pas supprimées de la librairie de médias."
+
+#: wp-bfi-better-featured-image.php:135
+msgid ""
+"Are you sure you want to unlink the default featured image from this post "
+"type? NOTE: It won't be deleted from the media library."
+msgstr ""
+"Êtes-vous certain de vouloir dissocier l'image à la une par défaut de ce "
+"type d'article? NOTE: Elle ne sera pas supprimée de la librairie de médias."
+
+#: wp-bfi-better-featured-image.php:133
+msgid ""
+"Are you sure you want to unlink the featured image from this post/page? NOTE:"
+" It won't be deleted from the media library."
+msgstr ""
+"Êtes-vous certain de vouloir dissocier l'image à la une de cet article/page? "
+"NOTE: Elle ne sera pas supprimée de la librairie de médias."
+
+#: wp-bfi-better-featured-image.php:289
+msgid "B"
+msgstr "o"
+
+#: wp-bfi-better-featured-image.php:54
+msgid "Buy me a coffee"
+msgstr "Achetez-moi un café"
+
+#: wp-bfi-admin-settings.php:46 wp-bfi-admin-settings.php:93
+msgid "Default Featured Image"
+msgstr "Image à la une par défaut"
+
+#: wp-bfi-admin-settings.php:74
+msgid "Default Featured Image Information"
+msgstr "Information sur l'image à la une par défaut"
+
+#: wp-bfi-admin-settings.php:47 wp-bfi-admin-settings.php:94
+msgid "Disable WP BFI"
+msgstr "Désactiver WP BFI"
+
+#: wp-bfi-admin-settings.php:115
+#, php-format
+msgid ""
+"Don't forget to rate this plugin on <a href=\"%s\" target=\"_blank\">"
+"WordPress.org</a>."
+msgstr ""
+"N'oubliez pas d'évaluer cette extension sur <a href=\"%s\" target=\"_blank\">"
+"WordPress.org</a>."
+
+#: wp-bfi-better-featured-image.php:76 wp-bfi-admin-settings.php:45
+#: wp-bfi-admin-settings.php:92
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: wp-bfi-better-featured-image.php:128
+msgid "Featured image"
+msgstr "Image mise en avant"
+
+#: wp-bfi-better-featured-image.php:97
+msgid "Featured Image Information"
+msgstr "Information sur l'image à la une"
+
+#: wp-bfi-better-featured-image.php:292
+msgid "GB"
+msgstr "Go"
+
+#: wp-bfi-admin-settings.php:114
+#, php-format
+msgid ""
+"Have an idea for this plugin? Send me an email: <a href=\"%s\">info@verya."
+"ca</a>"
+msgstr ""
+"Vous avez une idée pour cette extension? Envoyez-moi un courriel : <a "
+"href=\"%s\">info@verya.ca</a>"
+
+#: wp-bfi-admin-settings.php:107
+#, php-format
+msgid ""
+"Having issues? Create a <a href=\"%s\" target=\"_blank\">new topic</a> on "
+"the official support forum of WordPress.org, giving as much detail as "
+"possible."
+msgstr ""
+"Vous avez des problèmes? Créez un <a href=\"%s\" target=\"_blank\">nouveau "
+"sujet</a> sur le forum officiel de WordPress.org, en donnant le plus de "
+"détails possible."
+
+#. Author URI of the plugin
+msgid "https://verya.ca"
+msgstr "https://verya.ca"
+
+#. URI of the plugin
+msgid "https://wp-bfi.verya.ca"
+msgstr "https://wp-bfi.verya.ca"
+
+#: wp-bfi-better-featured-image.php:290
+msgid "KB"
+msgstr "ko"
+
+#: wp-bfi-better-featured-image.php:291
+msgid "MB"
+msgstr "Mo"
+
+#: wp-bfi-admin-settings.php:44 wp-bfi-admin-settings.php:91
+msgid "Post Type"
+msgstr "Type d'article"
+
+#: wp-bfi-admin-settings.php:76
+msgid "Replace Default Featured Image"
+msgstr "Remplacer l'image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:130
+msgid "Replace default featured image"
+msgstr "Remplacer l'image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:99
+msgid "Replace Featured Image"
+msgstr "Remplacer l'image à la une"
+
+#: wp-bfi-better-featured-image.php:129
+msgid "Replace featured image"
+msgstr "Remplacer l'image à la une"
+
+#: wp-bfi-admin-settings.php:80
+msgid "Set Default Featured Image"
+msgstr "Mettre une image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:132
+msgid "Set default featured image"
+msgstr "Mettre une image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:104
+msgid "Set Featured Image"
+msgstr "Mettre une image à la une"
+
+#: wp-bfi-better-featured-image.php:131
+msgid "Set featured image"
+msgstr "Mettre une image à la une"
+
+#: wp-bfi-admin-settings.php:102
+msgid ""
+"Setting a default featured image will only be effective to new posts (or "
+"updated ones) for the selected type."
+msgstr ""
+"La mise en place d'une image à la une par défaut ne sera qu'effectif pour "
+"les nouveaux articles (ou ceux mis à jour) pour le type sélectionné."
+
+#: wp-bfi-better-featured-image.php:34 wp-bfi-better-featured-image.php:53
+#: wp-bfi-admin-settings.php:40
+msgid "Settings"
+msgstr "Paramètres"
+
+#: wp-bfi-admin-settings.php:112
+msgid "Share your experience"
+msgstr "Partagez votre expérience"
+
+#: wp-bfi-admin-settings.php:113
+#, php-format
+msgid ""
+"Support this plugin, <a href=\"%s\" target=\"_blank\">buy me a coffee</a>!"
+msgstr ""
+"Soutenez cette extension, <a href=\"%s\" target=\"_blank\">achetez-moi un "
+"café</a>!"
+
+#: wp-bfi-better-featured-image.php:293
+msgid "TB"
+msgstr "To"
+
+#: wp-bfi-admin-settings.php:60
+msgid "Unlink All"
+msgstr "Dissocier toutes"
+
+#: wp-bfi-admin-settings.php:77
+msgid "Unlink Default Featured Image"
+msgstr "Dissocier l'image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:100
+msgid "Unlink Featured Image"
+msgstr "Dissocier l'image à la une"
+
+#: wp-bfi-admin-settings.php:101
+msgid ""
+"Unlinking featured images from all posts is done regardless of its status "
+"(<em>publish</em>, <em>future</em>, <em>draft</em>, <em>pending</em>, <em>"
+"private</em>, <em>trash</em> and <em>auto-draft</em>)."
+msgstr ""
+"Dissocier les images à la une des articles se fait indépendamment de son "
+"statut (<em>publish</em>, <em>future</em>, <em>draft</em>, <em>pending</em>, "
+"<em>private</em>, <em>trash</em> and <em>auto-draft</em>)."
+
+#. Author of the plugin
+msgid "VERYA"
+msgstr "VERYA"
+
+#: wp-bfi-admin-settings.php:75
+msgid "View Default Featured Image"
+msgstr "Voir l'image à la une par défaut"
+
+#: wp-bfi-better-featured-image.php:98
+msgid "View Featured Image"
+msgstr "Voir l'image à la une"
+
+#. Description of the plugin
+msgid ""
+"WP BFI lets you manage featured images in a more efficient way, by adding "
+"intuitive tools to your WordPress interface."
+msgstr ""
+"WP BFI vous permet de gérer les images mise en avant de manière plus "
+"efficace en ajoutant des outils intuitifs à votre interface WP."
+
+#. Name of the plugin
+msgid "WP BFI – Better Featured Image"
+msgstr "WP BFI – Better Featured Image"
+
+#: wp-bfi-admin-settings.php:110
+msgid "You like this plugin?"
+msgstr "Vous aimez cette extension?"
